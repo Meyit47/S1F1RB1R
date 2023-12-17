@@ -4,22 +4,22 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: #ffce54 ;
+    color: #660000;
 }
 
 #backgroundBody {
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: center;
-    background: url("https://telegra.ph/file/b27f8d51861c3870a26ea.jpg");
+    background-position: center center;
+    background: url(https://telegra.ph/file/b27f8d51861c3870a26ea.jpg);
     background-size: cover;
     background-color:#464646;
 }
 
 .fa {
-    padding: 20px;
-    font-size: 30px;
-    width: 30px;
+    padding: 30px;
+    font-size: 40px;
+    width: 40px;
     text-align: center;
     text-decoration: none;
     margin: 5px 2px;
