@@ -11,7 +11,7 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center center;
-    background: url(https://telegra.ph/file/b27f8d51861c3870a26ea.jpg);
+    background: url("https://telegra.ph/file/b27f8d51861c3870a26ea.jpg");
     background-size: cover;
     background-color:#464646;
 }
