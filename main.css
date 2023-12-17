@@ -8,9 +8,9 @@
 }
 
 #backgroundBody {
-    background-repeat: no-repeat;
+    background-repeat: no-repeat; no-repeat;
     background-attachment: fixed;
-    background-position: center;
+    background-position: center center;
     background: url(https://telegra.ph/file/f2759c7fdad95b22a6fb4.jpg);
     background-size: cover;
     background-color:#464646;
